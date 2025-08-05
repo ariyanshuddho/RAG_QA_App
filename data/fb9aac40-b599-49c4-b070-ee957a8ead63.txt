@@ -1,0 +1,70 @@
+Summary
+
+I am a highly motivated and detail-oriented Computer Science and Engineering (CSE) student specializing in Data Science. With a strong foundation in programming, statistics, and machine learning, I excel at analyzing complex datasets and building innovative models to solve real-world problems. My expertise spans across deep learning, predictive modeling, and data visualization, with hands-on experience in developing end-to-end data science solutions.
+
+Experience
+
+January 2024 - February 2025
+
+East West University - Dhaka, Bangladesh
+University Intern Project    
+
+IoT and Deep Learning-Based Water Quality Monitoring System.
+
+This was an internship project for univeristy. It was a smart water quality monitoring system which can determine some of the important parameters in water for fisheris with the help of Iot sensors and the deep learning model predicts the quality of the water
+
+Skills
+
+Python
+SQL
+Power BI
+Cloud platforms
+
+Presentation preparation
+Leadership development
+Critical thinking
+
+Languages
+
+English
+			
+
+Bangla
+			
+
+References
+
+M. Saddam Hossain Khan, Senior Lecturer, Department of Computer Science & Engineering, East West University, saddam.cse@ewubd.edu
+Dr. Mohammad Salah Uddin, Associate Professor, Department of Computer Science & Engineering, East West University, uddin@ewubd.edu
+
+Projects
+
+FIFA WORLD CUP Database: The project was to build a dummy FIFA WORLD CUP 2022 database via Oracle Apex with the help of SQL.
+Music Recommendation System: The project was a simple recommendation system using collaborative filtering. The machine learning algorithm was SVD (Singular Value Decomposition).
+PCB Fault Detection: It was a research-based project to detect the early faults of motherboards of 3 different models of laptops. It can detect the faults via image processing using YOLOv8 model. It is an effective project for sustainability.
+
+Research Publication
+
+Prediction of Cotton Percentage from Fabric Image using Deep Learning
+
+Education
+
+2025
+EAST WEST UNIVERSITY DHAKA
+BSC Computer Science and Engineering
+CGPA: 3.48/4.0
+
+2019
+DHAKA CITY COLLEGE DHAKA
+HSC 
+GPA: 4.5/5.0
+
+2017
+UNIVERSITY LABORATORY SCHOOL AND COLLEGE DHAKA
+SSC 
+GPA: 5.0/5.0
+
+Other Links
+
+Linked in: https: www.linkedin.com/in/mir-ariyan-shuddho-7b1414203
+GitHub: github.com/ariyanshuddho
